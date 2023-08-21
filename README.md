@@ -11,6 +11,7 @@ You can add tasks, mark them as completed (by clicking on the text once), and re
 * HTML5
 * CSS3
 * Javascript ES6
+* JSX
 
 ## What i used
 * [React](https://react.dev/)
