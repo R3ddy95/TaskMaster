@@ -31,7 +31,7 @@ If you don't have it, you can download it here:
 `npm run build`
 
 ### 4 - Open in the browser
-'npm start' and go to [http://localhost:3000](http://localhost:3000) to view it in your browser.
+`npm start` and go to [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 
 ##  Try it!
