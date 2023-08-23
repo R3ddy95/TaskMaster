@@ -1,9 +1,9 @@
 .App {
   text-align: center;
-  margin-top: 50px;
 }
 
 h1 {
+  padding-top: 30px;
   margin-bottom: 30px;
 
 }
@@ -130,10 +130,10 @@ body.dark-mode {
 .dark-mode-toggle {
   position: absolute;
   top: 20px;
-  right: 20px;
+  right: 27%;
   padding: 5px 10px;
   cursor: pointer;
-  border: none;
+  border: 1px solid #333;
   border-radius: 5px;
   background-color: #fff;
   color: #333;
@@ -143,4 +143,10 @@ body.dark-mode {
   width: 1em;
   height: 1em;
   vertical-align: middle;
+}
+
+@media (max-width: 750px) {
+  .dark-mode-toggle {
+    right: 20px;
+  }
 }

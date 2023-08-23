@@ -40,7 +40,7 @@ function App() {
   return (
     <div className={`App container ${darkMode ? 'dark-mode' : ''}`}>
       <button className="dark-mode-toggle" onClick={toggleDarkMode}>
-        {darkMode ? <><FontAwesomeIcon icon={faSun} /> Light Mode</>  : <><FontAwesomeIcon icon={faMoon} /> Dark Mode</> }
+        {darkMode ? <FontAwesomeIcon icon={faSun} /> : <FontAwesomeIcon icon={faMoon} /> }
       </button>
       <h1 className="mt-4">TaskMaster</h1>
       <div className="input-group mb-3">

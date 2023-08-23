@@ -1,70 +1,46 @@
-# Getting Started with Create React App
+# Task Masters ✔️ 
+TaskMaster is a To-Do application built using React. It allows users to create a list of tasks they need to complete. Additionally, the app features a Dark Mode that changes the visual style of the entire app, providing a more comfortable experience in low-light conditions.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## How it works
+You can add tasks, mark them as completed (by clicking on the text once), and remove them.
 
-In the project directory, you can run:
+<img src="src/TaskMaster.png" width="50%" height="50%">
 
-### `npm start`
+## Languages
+* HTML5
+* CSS3
+* Javascript ES6
+* JSX
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## What i used
+* [React](https://react.dev/)
+* [Node.js](https://nodejs.org/it)
+* [Bootstrap](https://getbootstrap.com/) as an HTML and CSS framework I have opted for.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Installation
+First of all, you need Node.js installed.
+If you don't have it, you can download it here:
+[Node.js](https://nodejs.org/it/download/)<br>
 
-### `npm test`
+### 1 - Clone the repository
+`git clone https://github.com/R3ddy95/TaskMaster.git`
+### 2 - Install the dependencies
+`npm install`
+### 3 - Build it!
+`npm run build`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### 4 - Open in the browser
+`npm start` and go to [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-### `npm run build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+##  Try it!
+Elsewhere, you can simply try it here:
+[TaskMaster](https://taskmaster-f1c28.web.app/)
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+##  License
+[MIT](https://choosealicense.com/licenses/mit/)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## Contact Me
+My Email: edoardo.vitagliano3@gmail.com <br>
+You can find my Linkedin profile here: https://www.linkedin.com/in/edoardo-vitagliano-299737110/
